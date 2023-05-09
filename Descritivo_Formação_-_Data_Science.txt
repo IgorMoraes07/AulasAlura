@@ -1,0 +1,78 @@
+Data Science
+Com o avanço da tecnologia, está cada vez maior a quantidade de dados disponíveis para análises mais avançadas. Desta forma, a área de Ciência de dados floresceu auxiliando as empresas e profissionais em suas tomadas de decisões: por isso, cresce também a demanda por especialistas na área.
+
+A Formação Data Science está aqui para você que quer aprender técnicas de análise de dados, estatística, modelagem e visualização na prática para assim escalar o crescimento e trazer novas oportunidades, seja na empresa onde você trabalha ou no seu próprio negócio.
+
+Você conhecerá Python, a linguagem mais popular em Data Science, além de utilizar diversas bibliotecas e ferramentas paralelas. Aprenderá sobre coleta, preparação e exploração de dados. Também irá compreender como visualizar dados e comunicar resultados através de gráficos. Assim, você conseguirá justificar as análises feitas e mostrar para a empresa o quão importante é o papel dos dados para otimizar processos em várias áreas.
+
+Se você quer trabalhar com Data Science, esta Formação te preparará para entrar no mercado e dar seus primeiros passos na profissão.
+
+Mergulhe de cabeça nos dados!
+
+DATA SCIENCE
+1.COMEÇANDO COM DATA SCIENCE
+2.MODELOS DE DATA SCIENCE
+3.VISUALIZAÇÃO DE DADOS
+4.TESTES COM DATA SCIENCE
+5. PROJETO
+
+1- Começando com Data Science
+Dê os seus primeiros passos na área, aprendendo sobre como os dados podem ser úteis para o nosso trabalho e dia a dia e como extrair o máximo desse recurso!
+
+Nesta primeira parte, você irá carregar um conjunto de dados do mundo real e realizar uma análise de dados de maneira exploratória, utilizando várias bibliotecas do Python, como a Seaborn, Matplotlib, SciPy ou Pandas.
+
+No Pandas, você irá se aprofundar um pouco mais: é uma das mais usadas pois fornece ferramentas de análise de dados de alta performance e fáceis de usar.
+
+CURSO
+Data Science: Primeiros passos
+
+CURSO
+Data Science: Introdução ao Python Pandas
+
+VIDEO
+Alura Live #64 - Data Science - YouTube
+
+2- Modelos de Data Science
+Trabalhe com séries temporais e analise dados de uma maneira prática e realista! Agora você irá aprender a utilizar a técnica de Regressão Linear para demonstrar os impactos das variáveis disponibilizadas em um dataset. À continuação, você utilizará visualizações para entender a distribuição de seus dados, e será capaz de comparar e salvar os melhores modelos.
+ 
+CURSO
+Data analysis: introdução a séries temporais e análises
+
+CURSO
+Data Science: Modelo e Regressão Linear
+
+CURSO
+Data Science: Regressão Linear, assimetria, statsmodel
+
+3- Visualização de dados
+Avance na área de dados conhecendo a importância do uso dos gráficos para a visualização dos dados! Você aprenderá a escolher as melhores formas de mostrar informações valiosas e impactar a sua audiência.
+ 
+CURSO
+Data Visualization parte 1: introdução ao design de gráficos
+
+CURSO
+Data Visualization parte 2: Escolhendo o melhor gráfico
+
+POST
+Análise de dados: analisando minha distribuição com três alternativas de visualização - Blog da Alura
+
+4- Testes com Data Science
+Chegou uma das partes mais empolgantes em se estudar Data Science! Visualize a distribuição de dados coletados, levante perguntas e hipóteses, crie intervalos de confiança para suas amostras e utilize o Python para executar testes estatísticos.
+ 
+PODCAST
+Casos bacanas de Data Science - Hipsters #106 - Hipsters Ponto TechHipsters Ponto Tech
+
+CURSO
+Data Science: Introdução a testes estatísticos com Python
+
+5- Projeto Formação Data Science
+
+Estamos chegando ao final da Formação! Parabéns por ter chegado até aqui depois de tanto estudo e tantos cursos.
+
+Esse é o último passo, um bem importante. É aqui que você vai mostrar o que aprendeu e, com isso, obter seu Certificado de Conclusão da Formação.
+
+São duas etapas:
+
+Uma prova teórica com um questionário múltipla escolha sobre os mais diversos assuntos abordados durante a Formação. Você precisa acertar pelo menos 50% para poder receber o certificado.
+Uma prova prática com alguns desafios que você precisa desenvolver e depois mandar para corrigirmos. O projeto exige que você use, na prática, assuntos que aprendeu ao longo da Formação. Também é necessário entregar com sucesso pelo menos 50% das atividades pedidas.
+Pronto(a)? Vamos lá!

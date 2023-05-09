@@ -1,0 +1,10 @@
+DATA SCIENCE 90h (Cronograma)
+1- Começando com Data Science
+Carga de conjunto de dados do mundo real e realizar uma análise de dados exploratória, utilizar várias bibliotecas do Python, como a Seaborn, Matplotlib, SciPy ou Pandas(aprofundando mais no Pandas).
+2- Modelos de Data Science
+Trabalhar com séries temporais e analise dados de uma maneira prática e realista! Agora aprender a utilizar Regressão Linear, utilizará visualizações para defnir qual a melhor e salvar os melhores modelos.
+3- Visualização de dados
+Avance na área de dados conhecendo a importância do uso dos gráficos para a visualização dos dados! Você aprenderá a escolher as melhores formas de mostrar informações valiosas e impactar a sua audiência.
+4- Testes com Data Science
+Visualize a distribuição de dados coletados, levante perguntas e hipóteses, crie intervalos e utilize o Python para executar testes estatísticos.
+5- Projeto Formação Data Science
